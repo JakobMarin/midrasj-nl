@@ -1,0 +1,12 @@
+{
+  "name": "midrasj-nl",
+  "displayName": "Midrasj NL",
+  "description": "Nederlandse lees- en vertaalomgeving voor klassieke joodse midrasj via Sefaria. Drie kolommen: Hebreeuws, Engels, Nederlands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jakob Marin"
+  },
+  "homepage": "https://github.com/JakobMarin/midrasj-nl",
+  "repository": "https://github.com/JakobMarin/midrasj-nl",
+  "keywords": ["midrash", "midrasj", "sefaria", "nederlands", "tanchuma", "rabbah"]
+}
